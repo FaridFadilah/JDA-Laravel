@@ -58,7 +58,7 @@ Route::get("/users/{id}", function(string $id){
         }
     }
 
-    // Contoh commit.
+    // snsadknadsknsadknkadsnkjadsnkjnadsk
 
     return view("users.detail", [
         "user" => $result,
